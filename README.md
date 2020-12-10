@@ -1,4 +1,4 @@
-## Hey 👋 my name is Chibuzor Kennedy Ojukwu
+## 👋 My name is Chibuzor Kennedy Ojukwu
 
 
 - 🔭 I’m currently working on CheKSlate (an edu-app).
