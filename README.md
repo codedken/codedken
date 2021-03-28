@@ -1,10 +1,8 @@
 ## 👋 My name is Chibuzor Kennedy Ojukwu
 
+- 🧑‍🔧 I am a freelancer. I create stuffs using Flutter🐤 and Dart.
+- ➕ I’m looking forward to contribute to the Flutter SDK soon.
+- 💬 Ask me anything Flutter and Dart.
+- 📧 You can reach me via cbsmoothoj@gmail.com or [via twitter(codedken1)](https://twitter.com/codedken1)
 
-- 🔭 I’m currently working on CheKSlate (an edu-app).
-- 🌱 Learning Flutter and Dart.
-- 👯 I’m looking to collaborate on Flutter and Dart.
-- 💬 Ask me about CheKSlate, Flutter and Dart.
-- 📫 How to reach me: cbsmoothoj@gmail.com
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Would be glad to collaborate with you..
